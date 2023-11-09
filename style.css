@@ -1,4 +1,4 @@
-  .body{
+    .body{
     font-family: 'Times New Roman', Times, serif;
 }
 .image{
@@ -14,7 +14,7 @@ nav{
     margin:auto;
     padding:20px 0;
     text-align-last: left;
-    justify-content:space-between;
+    justify-content: space-around;
 }
 nav ul li{
     display: inline-block;
@@ -37,11 +37,11 @@ nav ul li a:hover{
     font-size: 30px;
     color: black;
     text-align:right;
+    
 }
 .detel h1{
     font-style: italic;
     color:darksalmon;
-    
 }
 .detel p{
     color: #555;
@@ -57,7 +57,6 @@ nav ul li a:hover{
     display: inline-block;
     margin: 30px 0;
     border-radius: 5px;
-  
 }
 .imgg{
     float:right;
