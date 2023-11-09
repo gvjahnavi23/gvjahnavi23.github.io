@@ -36,9 +36,7 @@ nav ul li a:hover{
 {
     font-size: 30px;
     color: black;
-    margin-bottom: 20px;
-    text-align: center;
-    padding-left: 100px;
+    align: center;
 }
 .detel h1{
     font-style: italic;
