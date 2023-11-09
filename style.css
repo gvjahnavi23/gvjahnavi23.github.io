@@ -41,10 +41,12 @@ nav ul li a:hover{
 .detel h1{
     font-style: italic;
     color:darksalmon;
+    align: center;
 }
 .detel p{
     color: #555;
     line-height: 20px;
+    align:center;
 }
 .detel a{
     background: black;
@@ -56,6 +58,7 @@ nav ul li a:hover{
     display: inline-block;
     margin: 30px 0;
     border-radius: 5px;
+  align: center;
 }
 .imgg{
     float:right;
